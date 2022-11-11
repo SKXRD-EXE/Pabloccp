@@ -1,7 +1,7 @@
 Pablo joins the CCP
 
 ### How to use
-- Go tohttps://replit.com/ and create an account
+- Go to https://replit.com/ and create an account
 - Create a repl and click import from github
 - paste https://github.com/SKXRD-EXE/Pabloccp and click import
 - Create an application at the [Developer panel](https://discord.com/developers/applications/) (or you can use a previously existing one)
